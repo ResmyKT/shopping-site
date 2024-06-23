@@ -1,0 +1,171 @@
+#login,#register{
+    
+    margin-left: 600px;
+}
+#loginreg{
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    margin-left: 10px;
+}
+#login{
+    position: relative;
+    left: 850px;
+}
+#register{
+    position: relative;
+    left: 278px;
+}
+#navtab{
+    padding-left: 20px;
+    margin-left: 400px;
+}
+.nav-link{
+    padding-left: 50px;
+    margin-left: 300px;
+    font-size: larger;
+    font-weight:bolder;
+    color: blue;
+}
+/*.card-img-overlay{
+    position: relative;
+    left: 50%px;
+}*/
+#cartimg{
+    position :relative;
+    left :22%;
+}
+.logo{
+    display: flex;
+    flex-direction: column;
+
+    text-align: justify;
+   
+}
+.logo img{
+    position: relative;
+    left: 450%;
+
+}
+.logo p{
+    font-size: 50px;
+    position: relative;
+    left: 430%;
+}
+#shopname{
+    position: relative;
+    left: 70%;
+    top: 35%;
+    font-size: 60px;
+    color: blue;
+}
+#shopcap{
+    position: relative;
+    left: 70%;
+    top: 35%;
+    font-size: 30px;
+    color: rgb(7, 7, 65);
+
+}
+#caption button{
+    position: relative;
+    left: 70%;
+    top: 35%;
+
+}
+#imgg{
+    height: 1220px;
+}
+
+
+.row img{
+    width: 700px;
+    height: 600px;
+}
+.card1{
+    width: 700px;
+    height: 600px;
+   margin: 10px;
+}
+
+
+#last{
+    position: relative;
+    left: 35%;
+}
+#watchover{
+    position: absolute;
+    top:130%
+
+}
+#shirtover{
+    position: relative;
+    bottom:50%;
+}
+#sneakersover{
+    position: relative;
+    bottom: 30%;
+}
+#capover{
+    position:relative;
+top:10%;
+}
+#capover,#watchover,#shirtover,#sneakersover,#LADIESOVER{
+    text-align: justify;
+    color:white;
+    margin-left: 20PX;
+
+}
+.collection{
+    padding: 5px;
+}
+#bg{
+    margin: 10px;
+}
+#pic{
+    height: 480px;
+}
+.gallery #picC{
+height: 350px;
+}
+
+#GAL{
+    height: 350PX;
+    margin: 5PX;
+}
+
+  
+
+.text-reset{
+    text-decoration: none;
+}
+.gallery #picC:HOVER{
+   
+        
+        border-radius: 8px;
+        box-shadow: 2px 4px 6px rgb(0, 0, 0);
+}
+#pic:hover{
+    border-radius: 8px;
+        box-shadow: 2px 4px 6px rgb(0, 0, 0);
+
+}
+.row img:hover{
+    border-radius: 8px;
+        box-shadow: 2px 4px 6px 8px rgb(0, 0, 0);
+
+}
+#imgg:hover{
+    border-radius: 8px;
+        box-shadow: 2px 4px 6px 8px rgb(0, 0, 0);
+
+}
+#btn:hover{
+width: 150px;
+height: 35px;
+background-color: rgb(35, 53, 132);
+color: rgb(255, 255, 255);
+font-size: 20px;
+transition: .6s;
+box-shadow: 0 0 15px rgb(0, 0, 0);
+}
